@@ -11,7 +11,7 @@ Commands have precedence over hooks.
 
 ## Installation
 
-    git clone
+    git clone https://github.com/shefla/hexabot.git
     cd hexabot
     npm install
 
