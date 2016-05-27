@@ -1,0 +1,8 @@
+{
+  "botEmail": "CHANGE_ME_bot_email@address.net",
+  "botPassword": "CHANGE_ME_bot_password",
+  "botToken": null,
+  "commandPrefix": "!hex",
+  "commandDeny": "`You don't have the permission to use command %s.`",
+  "errorMessage": "`An error happened while running %s command.`"
+}
